@@ -1,13 +1,20 @@
-### Hi there 👋
+###Hi there, I'm Annu Thukral! 👋
 
-**anuthukral71/anuthukral71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🧐 About:
+Passionate about leveraging data for business insights and project management.
 
-Here are some ideas to get you started:
+🌱 A Business Analyst Graduate at the University of Connecticut.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about Data Analysis, Business Strategies, AI
-- 📫 How to reach me: annu.thukral@uconn.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+👩‍💻 Previously a Programmer Analyst in Data Analytics at Cognizant Technology Services, streamlining processes and earning accolades for leadership.
+
+🥇 Recognized for automating data processes, business analysis, data analytics, and 
+
+🎓 Completed Undergrad in Electronics and Communication Engineering from VIT, India.
+
+📧 Reach me at anu.thukral71@gmail.com | LinkedIn
+
+🚀 2023 Goals: Continue learning and applying analytics to solve real-world challenges.
+
+🚀 2024 Goal: Lead transformative projects at the intersection of technology and business, fostering innovation and positive impact through advanced analytics and project management. Excited to collaborate and push the boundaries of what data can achieve! 🌟
+
+Explore my work and connect with me on LinkedIn for more insights!
