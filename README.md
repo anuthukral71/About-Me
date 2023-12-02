@@ -1,6 +1,6 @@
-###Hi there, I'm Annu Thukral! 👋
+### Hi there, I'm Annu Thukral! 👋
 
-##🧐 About:
+## 🧐 About:
 Passionate about leveraging data for business insights and project management.
 
 🌱 A Business Analyst Graduate at the University of Connecticut.
