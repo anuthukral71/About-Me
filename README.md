@@ -11,10 +11,14 @@ Passionate about leveraging data for business insights and project management.
 
 🎓 Completed Undergrad in Electronics and Communication Engineering from VIT, India.
 
-📧 Reach me at anu.thukral71@gmail.com | LinkedIn
+📧 Reach me at annu.thukral1@gmail.com
 
-🚀 2023 Goals: Continue learning and applying analytics to solve real-world challenges.
+Tableau Public:
 
 🚀 2024 Goal: Lead transformative projects at the intersection of technology and business, fostering innovation and positive impact through advanced analytics and project management. Excited to collaborate and push the boundaries of what data can achieve! 🌟
 
 Explore my work and connect with me on LinkedIn for more insights!
+
+LinkedIn: https://www.linkedin.com/in/annu-thukral/
+Tableau Public: https://public.tableau.com/app/profile/annu.thukral/vizzes
+
